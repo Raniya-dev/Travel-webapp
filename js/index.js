@@ -81,7 +81,7 @@
             localStorage.setItem("password1",passwordInput.value);
 
 
-            window.location.href = "SignIn.html";
+            window.location.href = "Login.html";
 
             form.reset()
 
